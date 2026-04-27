@@ -297,6 +297,7 @@ const WORK_ITEMS = [
 
   { id:4, cat:'event', corner:'NFT LAUNCH · BANGKOK', label:'NFT Launch',
     title:'Beyond Graf', sub:'Launch Party', runtime:'01:30',
+    img:'assets/videos/covers/beyond-graf.jpg',
     src:'https://pub-d6d89f9162314d25aa972928430e153a.r2.dev/beyond-graf.mp4' },
 
   { id:5, cat:'event', corner:'BRAND FILM · BANGKOK', label:'Brand Film',
@@ -318,10 +319,12 @@ const WORK_ITEMS = [
   /* — Launch Videos — */
   { id:8, cat:'explainer', corner:'LAUNCH FILM · ALEO', label:'Launch Film',
     title:'Aleo', sub:'Launch Explainer', runtime:'00:54',
+    img:'assets/videos/covers/aleo.jpg',
     src:'https://pub-d6d89f9162314d25aa972928430e153a.r2.dev/aleo.mp4' },
 
   { id:9, cat:'explainer', corner:'INTRO FILM · KAITO', label:'Intro Film',
     title:'Kaito', sub:'Intro Video', runtime:'01:12',
+    img:'assets/videos/covers/kaito.jpg',
     src:'https://pub-d6d89f9162314d25aa972928430e153a.r2.dev/kaito.mp4' },
 ];
 
